@@ -1,0 +1,21 @@
+{
+  "name": "Pomodoro Timer",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Chrome extension for pomodoro timer",
+  "action": {
+    "default_icon":  {
+      "16": "images/timer-16.png",
+      "32": "images/timer-32.png",
+      "48": "images/timer-48.png",
+      "128": "images/timer-128.png"
+    },
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "images/timer-16.png",
+    "32": "images/timer-32.png",
+    "48": "images/timer-48.png",
+    "128": "images/timer-128.png"
+  }
+}
